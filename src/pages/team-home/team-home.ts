@@ -3,7 +3,6 @@ import { NavController, NavParams } from 'ionic-angular';
 
 import { StandingPage } from '../standing/standing';
 import { TeamDetailPage } from '../team-detail/team-detail';
-import { MyTeamsPage } from '../my-teams/my-teams';
 
 @Component({
   selector: 'page-team-home',

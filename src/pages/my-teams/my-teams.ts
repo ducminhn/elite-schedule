@@ -10,9 +10,7 @@ export class MyTeamsPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {}
 
-  ionViewDidLoad() {
-    
-  }
+  ionViewDidLoad() {}
 
   goToTournaments(){
     this.navCtrl.push(TournamentsPage);
